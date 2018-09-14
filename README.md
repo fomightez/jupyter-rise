@@ -1,6 +1,8 @@
-# Creating interactive presentations on Binder with RISE
+# Creating interactive presentations on Binder with RISE, plus Julia kernel
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/fomightez/jupyter-rise/master?filepath=index.ipynb)
+
+*Julia kernel has been added to this repo.*
 
 RISE allows you to quickly generate a live, interactive presentation from a
 Jupyter Notebook that is connected to the underlying Kernel of the notebook.
